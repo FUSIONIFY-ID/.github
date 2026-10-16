@@ -336,7 +336,16 @@ Ecosystem partner since the **Fusion Tempest** era.
 
 ### HADYVA INTERIOR
 
-Partner since **17 June 2026**.
+**PT Hadyva Karya Sejahtera**
+
+*“Dari Konsep Menjadi Karya Nyata”*  
+*“From Concept to Creation”*
+
+Active FUSIONIFY partner since **17 June 2026**.
+
+🌐 [hadyvainterior.com](https://hadyvainterior.com/)
+
+<br/>
 
 <img src="https://img.shields.io/badge/PARTNERSHIP-ACTIVE-22C55E?style=flat-square" alt="Active"/>
 
