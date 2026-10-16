@@ -7,23 +7,27 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=230&text=FUSIONIFY&fontSize=68&fontAlignY=36&desc=Fuse%20Ideas.%20Build%20Progress.&descAlignY=58&descSize=18&animation=twinkling&color=gradient&customColorList=6,11,20&fontColor=ffffff"
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&text=FUSIONIFY&fontSize=68&fontAlignY=36&desc=Fuse%20Ideas.%20Build%20Progress.&descAlignY=58&descSize=18&animation=twinkling&color=0D6CD7&fontColor=ffffff"
   width="100%"
   alt="FUSIONIFY"
 />
 
 <img
   src="https://github.com/FUSIONIFY-ID.png?size=200"
-  width="132"
+  width="118"
   alt="FUSIONIFY Logo"
 />
 
-# FUSIONIFY.ID
+# FUSIONIFY
 
-### Software Product & Digital Technology Company
+**Software Product & Digital Technology Company**
+
+<sub>Official GitHub Organization • @FUSIONIFY-ID</sub>
+
+<br/><br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=21&duration=2600&pause=850&center=true&vCenter=true&width=900&lines=Building+Digital+Products+from+Indonesia;Software+%E2%80%A2+Automation+%E2%80%A2+Platforms+%E2%80%A2+Technology;From+a+Project+to+a+Technology+Ecosystem;Fuse+Ideas.+Build+Progress."
+  src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=21&duration=2600&pause=900&center=true&vCenter=true&width=860&lines=Building+Digital+Products+from+Indonesia;Software+%E2%80%A2+Automation+%E2%80%A2+Platforms+%E2%80%A2+Technology;From+a+Project+to+a+Technology+Ecosystem"
   alt="FUSIONIFY Typing Animation"
 />
 
@@ -33,15 +37,21 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FUSIONIFY-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/fusionify-digital-group)
 [![Email](https://img.shields.io/badge/Email-hello%40fusionify.id-0D6CD7?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:hello@fusionify.id)
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SINCE-2022-0D6CD7?style=flat-square" alt="Since 2022"/>
+<img src="https://img.shields.io/badge/BUILT_IN-INDONESIA-539DE9?style=flat-square" alt="Built in Indonesia"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-22C55E?style=flat-square" alt="Building"/>
+
 </div>
 
 ---
 
 ## ⚡ About FUSIONIFY
 
-**FUSIONIFY** is an Indonesian software and technology company building products, platforms, automation systems, and digital solutions for businesses, developers, communities, and everyday users.
+**FUSIONIFY** is an Indonesian software and technology company building digital products, platforms, automation systems, and technology solutions.
 
-FUSIONIFY started as a technology project in **2022** and gradually evolved from the VPN and networking era into a broader technology ecosystem spanning services, digital commerce, automation, community platforms, payment infrastructure, and experimental projects.
+Started as a technology project in **2022**, FUSIONIFY evolved from the VPN and networking era into a broader ecosystem spanning services, digital commerce, automation, community platforms, payment infrastructure, and experimental technology.
 
 > ### Before FUSIONIFY became a company, it was a project.
 
@@ -244,33 +254,19 @@ timeline
 
 ### 2022 · The beginning
 
-FUSIONIFY's story started from networking and VPN technology.
+FUSIONIFY began from networking and VPN technology. The early projects evolved into the **Fusion Tempest VPN** ecosystem, followed by **Fusionify Solutions** on **22 December 2022**.
 
-The early VPN projects evolved into the **Fusion Tempest VPN** ecosystem. Later in the same year, **Fusionify Solutions** started on **22 December 2022** as a services, assistance, learning, and collaboration initiative.
-
-### 2024 · Becoming a legal company
+### 2024 · Becoming a company
 
 On **18 August 2024**, **PT FUSIONIFY DIGITAL STORE** was legally established as the company operating the FUSIONIFY brand.
 
 ### 2025 · Expanding beyond VPN
 
-FUSIONIFY expanded into new categories.
+**Premiumify** strengthened the digital-commerce direction. **FUSIONIFY BOT** introduced commerce automation, starting from the **WhatsApp Store List** side before the **Telegram Auto Order** line began development on **26 November 2025**.
 
-**Premiumify** strengthened the digital-commerce direction, while **FUSIONIFY BOT** introduced commerce automation.
+### 2026 · Building the next chapter
 
-FUSIONIFY BOT began from the **WhatsApp Store List** side. A few days later, its **Telegram Auto Order** line began development on **26 November 2025**.
-
-### 2026 · A broader technology ecosystem
-
-The official **Fusion VPN Ecosystem** reached end of service on **4 June 2026**, while FUSIONIFY continued expanding into new categories.
-
-New directions included:
-
-- AI-related technology services
-- Student community platforms
-- QRIS payment infrastructure
-- Multi-channel automation
-- Experimental web services
+The **Fusion VPN Ecosystem** officially reached end of service on **4 June 2026**. FUSIONIFY continued expanding into AI-related services, student platforms, QRIS payment infrastructure, multi-channel automation, and experimental web services.
 
 > **The VPN journey ended. The FUSIONIFY journey continues.**
 
@@ -312,27 +308,33 @@ The **Fusion VPN Ecosystem** officially reached end of service on **4 June 2026*
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="50%" valign="top">
 
 ### GRETONGERS.ID
 
 Long-term ecosystem partner since the early **Tempest VPN** era.
 
+<br/>
+
 <img src="https://img.shields.io/badge/PARTNERSHIP-ACTIVE-22C55E?style=flat-square" alt="Active"/>
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="50%" valign="top">
 
 ### PT RAJA SERVER PREMIUM
 
 Ecosystem partner since the **Fusion Tempest** era.
 
+<br/>
+
 <img src="https://img.shields.io/badge/PARTNERSHIP-ACTIVE-22C55E?style=flat-square" alt="Active"/>
 
 </td>
+</tr>
 
-<td align="center" width="25%">
+<tr>
+<td align="center" width="50%" valign="top">
 
 ### HADYVA INTERIOR
 
@@ -345,17 +347,19 @@ Active FUSIONIFY partner since **17 June 2026**.
 
 🌐 [hadyvainterior.com](https://hadyvainterior.com/)
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/PARTNERSHIP-ACTIVE-22C55E?style=flat-square" alt="Active"/>
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="50%" valign="top">
 
 ### TRUSTARY STORE
 
-Partner since **16 July 2026**.
+Active FUSIONIFY partner since **16 July 2026**.
+
+<br/>
 
 <img src="https://img.shields.io/badge/PARTNERSHIP-ACTIVE-22C55E?style=flat-square" alt="Active"/>
 
@@ -429,7 +433,7 @@ Some repositories may contain:
 - historical projects
 - future product exploration
 
-Some ideas stay experiments. Some eventually become products.
+Some ideas remain experiments. Others may eventually become public products or services.
 
 ---
 
@@ -486,7 +490,7 @@ Products • Platforms • Automation • Technology • Collaboration
 </sub>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=135&section=footer&animation=twinkling&color=gradient&customColorList=6,11,20"
+  src="https://capsule-render.vercel.app/api?type=waving&height=135&section=footer&animation=twinkling&color=0D6CD7"
   width="100%"
   alt="FUSIONIFY Footer"
 />
